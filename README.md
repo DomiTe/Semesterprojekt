@@ -153,11 +153,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - PyTorch community for providing an excellent deep learning framework.
-- Any collaborators or resources that assisted in the project.
-
-## Contact
-
-For questions or inquiries, feel free to reach out to [Your Name or Contact Information].
-```
-
-Feel free to fill in your contact information and customize any sections further as needed!
